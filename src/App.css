@@ -1,0 +1,23 @@
+.App-header {
+  background-color: darkblue;
+  width: 400px;
+  height: 50px;
+  margin-top: 20px;
+  color: white;
+  font-size: large;
+  text-align: center;
+}
+
+.App-header label{
+  padding-top: 10px ;
+}
+
+.control-width{
+  width: 400px;
+  margin-top: 20px;
+}
+
+.control-width.text{
+  border: 1px solid skyblue;
+  padding: 10px 10px 10px 10px;
+}
